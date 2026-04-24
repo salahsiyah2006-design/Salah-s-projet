@@ -17,7 +17,7 @@ Fonctionnalités
 Affichage des produits
 Navigation par catégories
 Interface simple et facile à utiliser
-(Ajouter d'autres fonctionnalités si nécessaire : panier, connexion, etc.)
+
 Technologies utilisées
 HTML
 CSS
@@ -32,9 +32,7 @@ Installation et utilisation
 Cloner le dépôt :
 git clone https://github.com/username/project-name  
 Ouvrir le fichier index.html dans un navigateur.
-Captures d’écran
 
-(Ajouter des images du projet si nécessaire)
 
 Auteur
 
