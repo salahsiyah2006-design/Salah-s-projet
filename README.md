@@ -22,12 +22,10 @@ Technologies utilisées
 HTML
 CSS
 JavaScript
+php
+sql
 
-Structure du projet
-Project/  
-│── index.html  
-│── style.css  
-│── script.js  
+
 Installation et utilisation
 Cloner le dépôt :
 git clone (https://github.com/salahsiyah2006-design/Salah-s-projet/tree/main)
