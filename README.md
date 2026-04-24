@@ -40,4 +40,4 @@ Auteur
 
 Salah Siyah
 
-Version
+Version 1.0
